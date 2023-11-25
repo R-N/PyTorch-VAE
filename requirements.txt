@@ -6,3 +6,4 @@ torchsummary>=1.5.1
 torchvision==0.14.1
 torchaudio==0.13.1
 torchtext @ git+https://github.com/R-N/torchtext@0.10.1
+torchdata==0.5.1
