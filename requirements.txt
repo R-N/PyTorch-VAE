@@ -3,5 +3,5 @@ PyYAML>=6.0
 tensorboard~=2.2.0
 torch==1.13.1
 torchsummary~=1.5.1
-torchvision~=0.10.1
+torchvision>=0.10.1
 torchtext==0.10.0
